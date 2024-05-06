@@ -13,10 +13,14 @@ I am a:
 
 ------------------------------------------------------------
 x<sup>2</sup> = WHO CARES???
+> [!TIP]
+> Use Python for simplicity and chillness.
 ### Python(God)
 ```python
 print("Hello World!")
 ```
+> [!TIP]
+> Use C++ for a overpowered experience
 ### C++(mildly scary)
 ```c++
 #include <iostream>
@@ -25,6 +29,8 @@ int main() {
   return 0;
 }
 ```
+> [!CAUTION]
+> Don't use Java(ever.)
 ### Java(sucks)
 ```java
 public class Main {
