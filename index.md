@@ -14,11 +14,11 @@ I am a:
 ------------------------------------------------------------
 x<sup>2</sup> = WHO CARES???
 ### Python(God)
-```
+```python
 print("Hello World!")
 ```
 ### C++(mildly scary)
-```
+```c++
 #include <iostream>
 int main() {
   std::cout << "Hello World";
@@ -26,7 +26,7 @@ int main() {
 }
 ```
 ### Java(sucks)
-```
+```java
 public class Main {
   public static void main(String[] args){
     System.out.println("Hello World");
