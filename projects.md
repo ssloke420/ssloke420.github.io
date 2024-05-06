@@ -1,6 +1,6 @@
 THE PROJECTS OF THE SHLEK
 ----------------------------
-[Home](index.md) [Quotes](quotes.md)
+[Home](index.md) &nbsp; &nbsp; [Quotes](quotes.md) &nbsp; &nbsp; [Expressionism](moi.md)
 
 -------------------------------
 > [!WARNING]
