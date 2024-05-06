@@ -7,9 +7,9 @@ THE REAL HOME OF THE SHLEK
 > Python is readable and simple. C++ is insanely powerful. Java is... just dumb.  - Some Smart Guy
 
 I am a:
-+ Avocado
-+ (sometimes) Human
-+ Shopping Cart(either costco or walmart)
++ Avocado 🥑
++ (sometimes) Human 👦
++ Shopping Cart(either costco or walmart) 🛒
 
 ------------------------------------------------------------
 x<sup>2</sup> = WHO CARES???
