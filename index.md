@@ -13,18 +13,20 @@ I am a:
 
 ------------------------------------------------------------
 x<sup>2</sup> = WHO CARES???
+### Python(God)
 ```
-#python(God)
 print("Hello World!")
-
-//C++(mildly scary)
+```
+### C++(mildly scary)
+```
 #include <iostream>
 int main() {
   std::cout << "Hello World";
   return 0;
 }
-
-//Java(sucks)
+```
+### Java(sucks)
+```
 public class Main {
   public static void main(String[] args){
     System.out.println("Hello World");
