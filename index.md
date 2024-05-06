@@ -1,6 +1,6 @@
 THE REAL HOME OF THE SHLEK
 ============================
-[The Fake Home](https://ssloke420.github.io/fakeos/windows.html) &nbsp;&nbsp; [Projects](projects.md) &nbsp; &nbsp; [Quotes](quotes.md)
+[The Fake Home](https://ssloke420.github.io/fakeos/windows.html) &nbsp;&nbsp; [Projects](projects.md) &nbsp; &nbsp; [Quotes](quotes.md) &nbsp; &nbsp; [Expressionism](moi.md)
 
 -----------------------------------------------------------------------------------------
 ## Quote of life:
