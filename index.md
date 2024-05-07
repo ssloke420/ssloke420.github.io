@@ -13,8 +13,8 @@ I am a:
 
 ------------------------------------------------------------
 x<sup>2</sup> = WHO CARES???
-> [!TIP]
-> Use Python for simplicity and chillness.
+<!--- > [!TIP]
+> Use Python for simplicity and chillness. --->
 ### Python(God)
 ```python
 print("Hello World!")
