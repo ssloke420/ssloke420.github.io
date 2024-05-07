@@ -3,8 +3,8 @@
 [Home](index.md) &nbsp; &nbsp; [Projects](projects.md) &nbsp; &nbsp; [Quotes](quotes.md)
 
 -------------------------------------------------------
-> [!IMPORTANT]
-> These are just the opinions of the Shlek.
+<!--- [!IMPORTANT]
+> These are just the opinions of the Shlek. --->
 ## Programming Languages 💻
 --------------------------------------------
 
