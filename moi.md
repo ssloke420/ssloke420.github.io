@@ -5,9 +5,8 @@
 -------------------------------------------------------
 <!--- [!IMPORTANT]
 > These are just the opinions of the Shlek. --->
-<details>
-  
-<summary> Programming Languages 💻 </summary>
+
+## Programming Languages 💻 
 
 | Language | Description \+ Opinion |
 | --------- | --------------------- |
@@ -19,4 +18,4 @@
 | C | Used for operating systems. It's old and not widely used. Score: 5/10 |
 | SQL | Database querying. It's popular, but very specific. Score: 8/10 |
 
-</details>
+
