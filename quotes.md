@@ -2,4 +2,4 @@
 [Home](index.md) &nbsp; &nbsp; [Projects](projects.md) &nbsp; &nbsp; [Expressionism](moi.md)
 
 ------------------------------------------------------------
-> The sieve your teachers - Charles Wang
+> The sieve your teachers - Charles Wang(@omega-beta)
