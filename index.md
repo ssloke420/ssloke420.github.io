@@ -12,7 +12,7 @@ I am a:
 + Shopping Cart(either costco or walmart) 🛒
 
 ------------------------------------------------------------
-x<sup>2</sup> = WHO CARES???
+ $\sqrt{3x-1}+(1+x)^2$ = WHO CARES???
 <!--- > [!TIP]
 > Use Python for simplicity and chillness. --->
 ### Python(God)
