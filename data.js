@@ -7,7 +7,6 @@
    style.css unless you want to change the design itself.
 
    RULES:
-   - Keep the quotes "" around text.
    - Keep the commas , at the end of each line inside { }.
    - To add a new project or award, copy an existing block
      (the part between { and }) and paste it, then edit it.
