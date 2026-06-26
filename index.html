@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Portfolio</title>
+<meta name="description" content="Personal portfolio" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <main class="page">
+
+    <!-- ============ HEADER / ABOUT ============ -->
+    <header class="hero" id="about">
+      <p class="eyebrow">Portfolio</p>
+      <h1 class="name" id="js-name">Name</h1>
+      <p class="role" id="js-role">Role</p>
+      <p class="tagline" id="js-tagline"></p>
+
+      <div class="bio" id="js-bio"></div>
+
+      <div class="meta-row" id="js-meta"></div>
+
+      <nav class="links" id="js-links"></nav>
+    </header>
+
+    <hr class="rule" />
+
+    <!-- ============ PROJECTS ============ -->
+    <section class="section" id="projects">
+      <h2 class="section-title">Projects</h2>
+      <p class="section-sub">What I'm building and what I've built.</p>
+
+      <div class="project-list" id="js-projects"></div>
+    </section>
+
+    <!-- ============ AWARDS (optional) ============ -->
+    <section class="section" id="awards-section" hidden>
+      <hr class="rule" />
+      <h2 class="section-title">Awards &amp; Achievements</h2>
+      <div class="award-list" id="js-awards"></div>
+    </section>
+
+    <footer class="footer">
+      <p>Last updated <span id="js-year"></span> &middot; Built with a simple static site</p>
+    </footer>
+
+  </main>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
