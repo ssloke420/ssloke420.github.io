@@ -1,5 +1,4 @@
 /* ============================================================
-   RENDERING ENGINE
    You shouldn't need to edit this file. All content changes
    belong in data.js.
    ============================================================ */
