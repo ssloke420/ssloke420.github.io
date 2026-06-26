@@ -33,17 +33,17 @@ const PORTFOLIO_DATA = {
     ],
 
     // Where you currently study / work. Leave as "" to hide.
-    affiliation: "",
+    affiliation: "River Hill High School",
 
     // Where you're based. Leave as "" to hide.
-    location: "",
+    location: "Clarksville, MD",
 
     // Contact / social links. Set "url" to "" to hide a link
     // without deleting it (useful if you don't have one yet).
     links: [
-      { label: "Email",    url: "mailto:shlok@example.com" },
-      { label: "GitHub",   url: "" },
-      { label: "LinkedIn", url: "" }
+      { label: "Email",    url: "mailto:shloksshah@gmail.com" },
+      { label: "GitHub",   url: "https://github.com/ssloke420" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/in/shlok-shah-778392385/" }
     ]
   },
 
