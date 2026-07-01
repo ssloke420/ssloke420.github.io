@@ -54,21 +54,21 @@ const PORTFOLIO_DATA = {
   // link: project URL, or "" if there isn't one yet
   projects: [
     {
-      title: "Project Name Here",
+      title: "Socratic AI Tool",
       status: "In progress",
       period: "2026",
-      description: "One or two sentences on what this project is and what it does.",
-      tags: ["Python", "APIs"],
+      description: "This project seeks to develop a Socratic AI chatbot based on real world research to reduce cognitive offloading to generative AI tools.",
+      tags: ["Cognitive", "AI"],
       link: ""
     },
-    {
-      title: "Another Project",
-      status: "Completed",
-      period: "2025",
-      description: "What problem it solved, what you built, what you learned.",
-      tags: ["JavaScript", "Web"],
-      link: ""
-    }
+    // {
+    //   title: "Another Project",
+    //   status: "Completed",
+    //   period: "2025",
+    //   description: "What problem it solved, what you built, what you learned.",
+    //   tags: ["JavaScript", "Web"],
+    //   link: ""
+    // }
   ],
 
   // ----------------------------------------------------------
