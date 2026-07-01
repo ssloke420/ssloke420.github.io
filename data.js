@@ -60,7 +60,7 @@ const PORTFOLIO_DATA = {
       description: "This project seeks to develop a Socratic AI chatbot based on real world research to reduce cognitive offloading to generative AI tools.",
       tags: ["Cognitive", "AI"],
       link: ""
-    },
+    }
     // {
     //   title: "Another Project",
     //   status: "Completed",
