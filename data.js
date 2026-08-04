@@ -24,14 +24,14 @@ const PORTFOLIO_DATA = {
 research: [
   {
     title: "The Cognitive Implications of Generative AI Usage Patterns",
-    status: "In progress",
+    status: "Completed",
     period: "2026",
     description: "A literature review examining how interaction styles with generative AI influence learning outcomes through metacognition and cognitive offloading.",
     tags: ["Artificial Intelligence", "Cognitive Science", "Education"],
     links: [
       {
         label: "Literature Review",
-        url: "YOUR_LINK_HERE"
+        url: "https://docs.google.com/document/d/1Oui7F9EbMNKO7grDdGCMUe1Ch0DpvrPA_GxAnptAkFs/edit?tab=t.gix58ldgmntx"
       }
     ]
   },
@@ -69,15 +69,6 @@ research: [
       tags: ["Computational Biology", "Machine Learning", "Bioinformatics"],
       link: ""
     },
-
-    {
-      title: "Personal Portfolio Website",
-      status: "In progress",
-      period: "2026",
-      description: "A personal website built to document research, software projects, and technical experiments.",
-      tags: ["HTML", "CSS", "JavaScript", "Web Development"],
-      link: ""
-    }
   ],
 
 
