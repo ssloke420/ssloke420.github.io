@@ -21,7 +21,36 @@ const PORTFOLIO_DATA = {
     ]
   },
 
+research: [
+  {
+    title: "The Cognitive Implications of Generative AI Usage Patterns",
+    status: "In progress",
+    period: "2026",
+    description: "A literature review examining how interaction styles with generative AI influence learning outcomes through metacognition and cognitive offloading.",
+    tags: ["Artificial Intelligence", "Cognitive Science", "Education"],
+    links: [
+      {
+        label: "Literature Review",
+        url: "YOUR_LINK_HERE"
+      }
+    ]
+  },
 
+  {
+    title: "Pan-Cancer Stemness Signature Analysis",
+    status: "In progress",
+    period: "2026",
+    description: "Computational analysis investigating conserved stemness-related transcriptional programs across cancer types using public genomic datasets.",
+    tags: ["Bioinformatics", "Cancer Genomics"],
+    links: [
+      {
+        label: "GitHub",
+        url: "YOUR_LINK_HERE"
+      }
+    ]
+  }
+],
+  
   projects: [
     {
       title: "Socratic AI Learning Platform",
