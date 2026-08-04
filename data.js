@@ -45,7 +45,7 @@ research: [
     links: [
       {
         label: "GitHub",
-        url: "YOUR_LINK_HERE"
+        url: "https://github.com/ssloke420/pancancer-research"
       }
     ]
   }
@@ -67,7 +67,7 @@ research: [
       period: "2026",
       description: "Using computational biology and public cancer datasets to investigate whether shared transcriptional patterns associated with stemness appear across multiple cancer types and whether these signatures relate to patient outcomes.",
       tags: ["Computational Biology", "Machine Learning", "Bioinformatics"],
-      link: ""
+      link: "https://github.com/ssloke420/pancancer-research"
     },
   ],
 
