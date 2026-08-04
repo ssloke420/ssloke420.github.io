@@ -172,6 +172,47 @@
       document.title = `${a.name} — Portfolio`;
     }
   }
+function renderResearch() {
+  const wrap = document.getElementById("js-research");
+  const research = data.research || [];
+
+  research.forEach((p, i) => {
+    const row = el("div", { className: "project" });
+
+    const index = el("div", {
+      className: "project-index",
+      text: String(i + 1).padStart(02, "0"),
+    });
+
+    const body = el("div", { className: "project-body" });
+
+    body.appendChild(
+      el("h3", { text: p.title })
+    );
+
+    body.appendChild(
+      el("p", {
+        className: "project-desc",
+        text: p.description
+      })
+    );
+
+    (p.links || []).forEach(link => {
+      const a = el("a", {
+        className: "project-link",
+        text: link.label
+      });
+
+      a.href = link.url;
+      a.target = "_blank";
+      body.appendChild(a);
+    });
+
+    row.appendChild(index);
+    row.appendChild(body);
+    wrap.appendChild(row);
+  });
+}
 
   // ---------- run ----------
   renderTitle();
@@ -179,4 +220,5 @@
   renderProjects();
   renderAwards();
   renderFooter();
+  renderResearch();
 })();
