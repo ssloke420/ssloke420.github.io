@@ -7,8 +7,8 @@ const PORTFOLIO_DATA = {
 
     bio: [
       "I'm a sophomore at River Hill High School interested in the intersection of artificial intelligence, cognitive science, and computational methods.",
-      "My work focuses on understanding how technology can support human thinking — from studying AI-assisted learning to analyzing biological data through computational approaches.",
-      "This portfolio documents my research, software projects, and experiments as I continue learning and building."
+      "My work focuses on designing and studying technology that helps people think, learn, and solve problems more effectively — from AI-assisted learning research to computational analysis of biological data.",
+      "This portfolio documents my research, projects, and experiments as I continue learning and building."
     ],
 
     affiliation: "River Hill High School",
@@ -21,72 +21,152 @@ const PORTFOLIO_DATA = {
     ]
   },
 
-research: [
-  {
-    title: "The Cognitive Implications of Generative AI Usage Patterns",
-    status: "Completed",
-    period: "2026",
-    description: "A literature review examining how interaction styles with generative AI influence learning outcomes through metacognition and cognitive offloading.",
-    tags: ["Artificial Intelligence", "Cognitive Science", "Education"],
-    links: [
-      {
-        label: "Literature Review",
-        url: "https://docs.google.com/document/d/1Oui7F9EbMNKO7grDdGCMUe1Ch0DpvrPA_GxAnptAkFs/edit?tab=t.gix58ldgmntx"
-      }
-    ]
-  },
 
-  {
-    title: "Pan-Cancer Stemness Signature Analysis",
-    status: "In progress",
-    period: "2026",
-    description: "Computational analysis investigating conserved stemness-related transcriptional programs across cancer types using public genomic datasets.",
-    tags: ["Bioinformatics", "Cancer Genomics"],
-    links: [
-      {
-        label: "GitHub",
-        url: "https://github.com/ssloke420/pancancer-research"
-      }
-    ]
-  }
-],
-  
-  projects: [
+  research: [
     {
-      title: "Socratic AI Learning Platform",
-      status: "In progress",
+      title: "The Cognitive Implications of Generative AI Usage Patterns",
+      status: "Literature Review Completed",
       period: "2026",
-      description: "Developing an AI-based learning tool designed to encourage metacognitive engagement and reduce unproductive cognitive offloading. The project explores how interaction design can influence the way students use generative AI for learning.",
-      tags: ["Artificial Intelligence", "Education Technology", "Cognitive Science"],
-      link: ""
+
+      description:
+        "A literature review examining how different interaction styles with generative AI influence learning outcomes through metacognition and cognitive offloading.",
+
+      tags: [
+        "Artificial Intelligence",
+        "Cognitive Science",
+        "Education Research"
+      ],
+
+      links: [
+        {
+          label: "Literature Review",
+          url: "https://docs.google.com/document/d/1Oui7F9EbMNKO7grDdGCMUe1Ch0DpvrPA_GxAnptAkFs/edit"
+        }
+      ]
     },
+
 
     {
       title: "Pan-Cancer Stemness Signature Analysis",
-      status: "In progress",
+      status: "In Progress",
       period: "2026",
-      description: "Using computational biology and public cancer datasets to investigate whether shared transcriptional patterns associated with stemness appear across multiple cancer types and whether these signatures relate to patient outcomes.",
-      tags: ["Computational Biology", "Machine Learning", "Bioinformatics"],
-      link: "https://github.com/ssloke420/pancancer-research"
-    },
+
+      description:
+        "A computational biology project analyzing whether shared gene expression patterns linked to cancer stemness appear across multiple cancer types and relate to patient outcomes.",
+
+      tags: [
+        "Bioinformatics",
+        "Cancer Genomics",
+        "Data Analysis"
+      ],
+
+      links: [
+        {
+          label: "GitHub",
+          url: "https://github.com/ssloke420/pancancer-research"
+        }
+      ]
+    }
   ],
 
 
-  showAwards: true,
-  awards: [
+  projects: [
     {
-      title: "FBLA State Qualifier",
-      issuer: "Future Business Leaders of America",
+      title: "Socratic AI Learning Platform",
+      status: "In Progress",
+      period: "2026",
+
+      description:
+        "An AI learning platform exploring how interaction design can encourage student reasoning instead of replacing it. The project combines artificial intelligence, cognitive science, and education research to design more thoughtful AI-assisted learning.",
+
+      tags: [
+        "Artificial Intelligence",
+        "Education Technology",
+        "Cognitive Science"
+      ],
+
+      link: ""
+    },
+
+
+    {
+      title: "Cognitive Offloading Index (COI) Prototype",
+      status: "In Progress",
+      period: "2026",
+
+      description:
+        "A prototype framework designed to analyze AI interaction patterns and estimate whether users are engaging with AI as a learning partner or relying on it as a replacement for thinking.",
+
+      tags: [
+        "Human-Computer Interaction",
+        "AI Evaluation",
+        "Metacognition"
+      ],
+
+      link: ""
+    }
+  ],
+
+
+  skills: {
+    programming: [
+      "Python",
+      "Java",
+      "JavaScript",
+      "SQL"
+    ],
+
+    research: [
+      "Bioinformatics",
+      "Data Analysis",
+      "Literature Review",
+      "Survival Analysis"
+    ],
+
+    tools: [
+      "Flask",
+      "Git",
+      "Pandas",
+      "TCGA/Xena"
+    ]
+  },
+
+
+  achievements: [
+    {
+      title: "FBLA State Competition",
+      result: "7th Place",
       year: "2026",
-      description: "Recognized through competitive business and entrepreneurship events."
+      issuer: "Future Business Leaders of America"
     },
 
     {
-      title: "ACSL Finalist",
-      issuer: "American Computer Science League",
+      title: "FBLA Regional Competition",
+      result: "3rd Place",
       year: "2026",
-      description: "Qualified for national-level computer science competition."
+      issuer: "Future Business Leaders of America"
+    },
+
+    {
+      title: "ACSL Finals Qualification",
+      result: "National Competition Finalist",
+      year: "2026",
+      issuer: "American Computer Science League"
     }
+  ],
+
+
+  exploring: [
+    "Human-centered artificial intelligence",
+    "Computational approaches to biology",
+    "Learning science and educational technology"
+  ],
+
+
+  interests: [
+    "Percussion",
+    "Tennis",
+    "Creative problem solving"
   ]
 
 };
